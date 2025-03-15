@@ -1,4 +1,8 @@
-## Hi there 👋
+Assalamualaikum.
+Hi!
+I'm learning Github as a Public Health tool.
+Looking for projects to collaborate.
+Thanks!
 
 <!--
 **ZhafirZulkifli/ZhafirZulkifli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
