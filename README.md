@@ -1,20 +1,18 @@
-Assalamualaikum.<p>
-Hi!<p>
-I'm learning Github as a Public Health tool.<p>
-Looking for projects to collaborate.<p>
-Thanks!<p>
+# Assalamualaikum
 
-<!--
-**ZhafirZulkifli/ZhafirZulkifli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Zhafir Zulkifli
 
-Here are some ideas to get you started:
+**Medical Doctor (MBBS) · Master of Public Health (MPH) · Doctor of Public Health (DrPH) student at UiTM Sungai Buloh, Malaysia**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Malaysian medical doctor pursuing doctoral study in public health. I am interested in using collaborative digital tools to support public health learning, research, and practice.
+
+### Academic profile
+
+- **Qualifications:** MBBS, MPH
+- **Current study:** Doctor of Public Health (DrPH), UiTM Sungai Buloh
+
+### Collaboration
+
+I welcome opportunities to learn and collaborate on projects related to public health. I am learning to use GitHub as a tool for sharing work and working together.
+
+---
